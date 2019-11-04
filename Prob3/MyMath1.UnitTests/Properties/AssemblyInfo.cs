@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Prob 3 NUnit")]
+[assembly: AssemblyTitle("MyMath1.UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Toshiba")]
-[assembly: AssemblyProduct("Prob 3 NUnit")]
+[assembly: AssemblyProduct("MyMath1.UnitTests")]
 [assembly: AssemblyCopyright("Copyright © Toshiba 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("17448769-3948-444e-b7e0-82c608ad8afb")]
+[assembly: Guid("e8e80b7d-fa72-4e0a-b944-f2827a757dc3")]
 
 // Version information for an assembly consists of the following four values:
 //

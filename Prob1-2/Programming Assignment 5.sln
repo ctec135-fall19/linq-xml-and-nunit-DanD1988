@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prob 1 LINQ", "Prob 1 LINQ\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prob 2 XML Using LINQ", "Prob 2 XML Using LINQ\Prob 2 XML Using LINQ.csproj", "{F73BDF8D-21FD-4C47-B089-6B70FC73F2B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prob 3 NUnit", "Prob 3 NUnit\Prob 3 NUnit.csproj", "{17448769-3948-444E-B7E0-82C608AD8AFB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{F73BDF8D-21FD-4C47-B089-6B70FC73F2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F73BDF8D-21FD-4C47-B089-6B70FC73F2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F73BDF8D-21FD-4C47-B089-6B70FC73F2B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17448769-3948-444E-B7E0-82C608AD8AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17448769-3948-444E-B7E0-82C608AD8AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17448769-3948-444E-B7E0-82C608AD8AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17448769-3948-444E-B7E0-82C608AD8AFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
